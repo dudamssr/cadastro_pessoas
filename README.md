@@ -37,6 +37,7 @@ A proposta do projeto é criar uma aplicação simples de registro e gestão, pe
 
 - Estão na pasta /assets
 
+![Tela Inicial](assets/foto1.png)
 ---
 
 ## Estrutura do projeto
