@@ -35,9 +35,10 @@ A proposta do projeto é criar uma aplicação simples de registro e gestão, pe
 
 ## Prints
 
-- Estão na pasta /assets
-
 ![Tela Inicial](assets/foto1.png)
+![Tela Pessoas](assets/foto2.png)
+![Tela Cadastro](assets/foto3.png)
+![Tela Cadastrada](assets/foto4.png)
 ---
 
 ## Estrutura do projeto
