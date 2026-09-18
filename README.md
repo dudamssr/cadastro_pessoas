@@ -40,16 +40,3 @@ A proposta do projeto é criar uma aplicação simples de registro e gestão, pe
 ![Tela Cadastro](assets/foto3.png)
 ![Tela Cadastrada](assets/foto4.png)
 ---
-
-## Estrutura do projeto
-
-```text
-lib/
-├── main.dart
-│
-└── ui/
-    ├── splash.dart
-    ├── home.dart
-    ├── cadastro.dart
-    └── style/
-        └── theme.dart
